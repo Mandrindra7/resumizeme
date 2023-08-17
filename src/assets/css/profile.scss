@@ -1,0 +1,32 @@
+.profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  align-self: stretch;
+  .form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    width: 694px;
+
+    .info {
+     flex: 48%;
+     flex-wrap: wrap;
+     box-sizing: border-box;
+     position: relative;
+    }
+    .address {
+      flex:50%;
+    }
+
+    .password {
+      width: 339px
+    }
+
+    .badge {
+      position: absolute;
+      top: 13px;
+      right: 12px;
+    }
+  }
+}

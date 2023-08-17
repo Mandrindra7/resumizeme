@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Vector_00000013886656518551133100000015482124896418768571_);}
+	.st1{fill:#5685C4;}
+	.st2{fill:#161621;}
+	.st3{fill:#74C6A0;}
+	.st4{fill:#39B882;}
+</style>
+<g>
+	<g id="Resumizeme">
+		
+			<linearGradient id="Vector_00000070820792648172452720000004355682093541651337_" gradientUnits="userSpaceOnUse" x1="21.3558" y1="75.1829" x2="63.0003" y2="24.886" gradientTransform="matrix(1 0 0 -1 0 100.11)">
+			<stop  offset="0" style="stop-color:#4068B2"/>
+			<stop  offset="1" style="stop-color:#11499F"/>
+		</linearGradient>
+		<path id="Vector" style="fill:url(#Vector_00000070820792648172452720000004355682093541651337_);" d="M49.45,86.06H15.39V40.65
+			c0-12.54,10.16-22.71,22.71-22.71h34.06v45.41L49.45,86.06z"/>
+		<path id="Vector_2" class="st1" d="M49.45,63.35h22.71c0,12.91-8.13,22.71-22.71,22.71V63.35z"/>
+		<path id="Rectangle_3" class="st2" d="M72.15,36.86H43.77c-5.22,0-9.46,4.24-9.46,9.46c0,5.22,4.24,9.46,9.46,9.46h28.38V36.86z"
+			/>
+		<path id="Rectangle_1" class="st3" d="M72.15,33.08H85.4c5.22,0,9.46,4.24,9.46,9.46S90.62,52,85.4,52H72.15V33.08z"/>
+		<path id="Rectangle_2" class="st4" d="M72.15,33.08H43.77c-5.22,0-9.46,4.24-9.46,9.46S38.54,52,43.77,52h28.38V33.08z"/>
+	</g>
+</g>
+</svg>

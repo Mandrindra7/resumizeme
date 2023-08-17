@@ -1,0 +1,20 @@
+input[id="check"] + label {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid  #e3e3e4;
+  border-radius: 5px;
+  cursor: pointer;
+  background: none;
+}
+
+input[id="check"]:checked + label:after {
+  position: relative;
+  top: -4px;
+  left: 2px;
+  content: '\2714';
+  font-size: 14px;
+}
+input[id="check"] {
+  display: none;
+}

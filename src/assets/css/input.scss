@@ -1,0 +1,46 @@
+.container {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+
+  .input {
+    color: #595964;
+    font-family: Gilroy-Medium;
+    padding: 8px 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    font-size: 16px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #e3e3e4;
+    border-radius: 4px;
+    width: 100%;
+  }
+
+  .label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    padding: 10px;
+    transition: transform 0.3s, font-size 0.3s;
+    font-family: Gilroy-Medium;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+  .input:focus ~ .label,
+  .input.has-value:not(:placeholder-shown) ~ .label {
+    transform: translateY(-30px);
+    margin-left: 5px;
+    padding: 0 5px;
+    top: 25px;
+    background: #fff;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+  }
+}

@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin: auto;
+  @font-face {
+    font-family: Gilroy-Medium;
+    src: url("./assets/font/FontsFree-Net-Gilroy2.ttf");
+  }
+  @font-face {
+    font-family: Gilroy-SemiBold;
+    src: url("./assets/font/Gilroy-SemiBold.ttf");
+  }
+
+  @font-face {
+    font-family: Gilroy-REgular;
+    src: url("./assets/font/Gilroy-Regular.ttf");
+  }
+
+}
